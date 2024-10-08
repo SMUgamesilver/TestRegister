@@ -66,7 +66,7 @@
                
     <br><br><hr>
     <h3>수고하셨습니다.</h3>           
-    <input type="image" src = "image/SMU_deer.png">
+    <input type="image" src = "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fwww.smu.ac.kr%2F_attach%2Fimage%2F2022%2F10%2FPLKqTefaQxGfcnMdjloJ">
                   
     </form>
     
